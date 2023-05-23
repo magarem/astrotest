@@ -10,6 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.4.1"
+    "@astrojs/solid-js": "^2.2.0",
+    "@astrojs/vercel": "^3.4.0",
+    "astro": "^2.5.5",
+    "solid-js": "^1.7.5"
   }
 }
